@@ -1,24 +1,39 @@
-# README
+# となりのべんとー
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+ユーザーが投稿したお弁当のレシピを組み合わせて献立を考えるサイト
 
-Things you may want to cover:
+### サイトテーマ
+お弁当のレシピ考案
 
-* Ruby version
+### テーマを選んだ理由
+お弁当は「長時間持ち運ぶ」「冷めてもおいしく」「準備時間が限られる」など、食卓での食事に比べて制限が多く、
+いつもだいたい同じようなものを詰めてしまうので、お弁当に特化したレシピサイトがあれば使いやすいのではないかと思いました。
+職場や学校のとなりの席で広げられたお弁当を見て、おいしそうだなと思ったものを自分のお弁当に取り入れてみるような感覚で、
+みんなが投稿したレシピを閲覧したり、レシピ同士の組み合わせを保存したりできる機能があれば、
+毎日のお弁当作りに悩む人にも使ってもらいやすいサイトになるのではと考え、このテーマを選びました。
 
-* System dependencies
+### ターゲットユーザ
+- お弁当のレシピの幅に限界を感じている人
+- 自分の考えたお弁当のアイディアをほかの人に知ってもらいたい人
 
-* Configuration
+### 主な利用シーン
+- 明日お弁当に何を作ろうか迷ったとき(レシピ検索)
+- お弁当のおかずの組み合わせが偏ってしまうとき(My弁当機能：レシピを組み合わせて保存しておく機能)
+- 今日まで作ったお弁当の記録と明日から作るお弁当の予定を確認したいとき(カレンダーで一覧表示)
 
-* Database creation
+## 設計書
 
-* Database initialization
 
-* How to run the test suite
+## チャレンジ要素一覧
+<https://docs.google.com/spreadsheets/d/1ww9UDKr1_qQZVqjGySiN-QX16xCayeLJZpfOrews4aM/edit?usp=sharing>
 
-* Services (job queues, cache servers, search engines, etc.)
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Deployment instructions
-
-* ...
+## 使用素材
+使用時追加予定
